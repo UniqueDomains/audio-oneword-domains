@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .AUDIO one-word domains still available to buy.
 
-This dataset contains 4,587 .AUDIO one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,585 .AUDIO one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.AUDIO one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=audio-oneword-domains&utm_content=description.top) (4,586) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.AUDIO one word domain
 | abatic.audio     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.audio    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.audio   | available | 50       | 1%     | 8      |           |         |         |
-| abc.audio        | available | 102      | 41%    | 3      |           |         |         |
+| abc.audio        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.audio  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.audio  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.audio | available | 56       | 1%     | 10     |           |         |         |
