@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .audio one-word domains from Uniqu
 
 **Public extract:** 9,342 rows · **Live catalog:** 9,342 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/audio`  
 **Best for:** founders, investors, studios
 
@@ -79,10 +79,10 @@ print(df.head())
 | law.audio        | available | $159.98   | —             | 82             | 46     | 3      | namecheap                                |
 | ocean.audio      | resell    | —         | —             | 72             | 35     | 5      | Namecheap                                |
 | ace.audio        | premium   | $845      | $845          | 88             | 57     | 3      | namecheap                                |
-| hotel.audio      | available | $159.98   | —             | 70             | 46     | 5      | namecheap                                |
-| dynamic.audio    | resell    | —         | —             | 94             | 34     | 7      | united-domains GmbH                      |
-| alpha.audio      | premium   | $2,600    | $2,600        | 90             | 53     | 5      | namecheap                                |
 | green.audio      | available | $159.98   | —             | 108            | 45     | 5      | namecheap                                |
+| dynamic.audio    | resell    | —         | —             | 94             | 34     | 7      | united-domains GmbH                      |
+| alpha.audio      | premium   | $2,600    | $2,600        | 90             | 54     | 5      | namecheap                                |
+| hotel.audio      | available | $159.98   | —             | 70             | 45     | 5      | namecheap                                |
 | matter.audio     | resell    | —         | —             | 63             | 32     | 6      | Namecheap                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUDIO One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUDIO One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
