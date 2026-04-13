@@ -71,7 +71,7 @@ print(df.head())
 | share.audio      | resell    | —         | —             | 72             | 49     | 5      | 1API GmbH                                |
 | adam.audio       | premium   | $3,857.10 | $3,857.10     | 66             | 70     | 4      | Nom-iq Ltd. dba Com Laude                |
 | enterprise.audio | available | $159.98   | —             | 68             | 61     | 10     | namecheap                                |
-| forge.audio      | resell    | —         | —             | 62             | 45     | 5      | Namecheap                                |
+| forge.audio      | resell    | —         | —             | 62             | 44     | 5      | Namecheap                                |
 | nationwide.audio | premium   | $2,600    | $2,600        | 76             | 66     | 10     | namecheap                                |
 | simple.audio     | available | $159.98   | —             | 128            | 48     | 6      | namecheap                                |
 | evolve.audio     | resell    | —         | —             | 84             | 40     | 6      | Hosting Concepts B.V. d/b/a Registrar.eu |
@@ -79,10 +79,10 @@ print(df.head())
 | law.audio        | available | $159.98   | —             | 82             | 46     | 3      | namecheap                                |
 | ocean.audio      | resell    | —         | —             | 72             | 35     | 5      | Namecheap                                |
 | ace.audio        | premium   | $845      | $845          | 88             | 57     | 3      | namecheap                                |
-| green.audio      | available | $159.98   | —             | 108            | 45     | 5      | namecheap                                |
+| hotel.audio      | available | $159.98   | —             | 70             | 45     | 5      | namecheap                                |
 | dynamic.audio    | resell    | —         | —             | 94             | 34     | 7      | united-domains GmbH                      |
 | alpha.audio      | premium   | $2,600    | $2,600        | 90             | 53     | 5      | namecheap                                |
-| hotel.audio      | available | $159.98   | —             | 70             | 45     | 5      | namecheap                                |
+| auto.audio       | available | $159.98   | —             | 68             | 45     | 4      | namecheap                                |
 | matter.audio     | resell    | —         | —             | 63             | 32     | 6      | Namecheap                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
