@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .audio one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,311 domains · **Median ask:** $198.06 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/audio`  
 **Best for:** founders, investors, studios
 
@@ -69,9 +69,9 @@ print(df.head())
 | neuroscience.audio | available | $159.98   | —             | 80             | 37     | 12     | namecheap |
 | travelers.audio    | premium   | $2,660    | $2,660        | 58             | 61     | 9      | namesilo  |
 | events.audio       | available | $159.98   | —             | 68             | 37     | 6      | namecheap |
-| comics.audio       | premium   | $2,800    | $2,800        | 68             | 24     | 6      | namecheap |
-| tokens.audio       | available | $104.99   | $114.99       | 51             | 36     | 6      | namesilo  |
 | holidays.audio     | premium   | $2,660    | $2,660        | 78             | 23     | 8      | namesilo  |
+| tokens.audio       | available | $104.99   | $114.99       | 51             | 36     | 6      | namesilo  |
+| comics.audio       | premium   | $2,800    | $2,800        | 68             | 23     | 6      | namecheap |
 | homes.audio        | available | $159.98   | —             | 86             | 34     | 5      | namecheap |
 | LongBeach.audio    | premium   | $910      | $910          | 62             | 11     | 10     | namecheap |
 | Cats.audio         | available | $159.98   | —             | 59             | 33     | 4      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUDIO One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUDIO One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
