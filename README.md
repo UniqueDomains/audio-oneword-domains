@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .audio one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,311 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,311 domains · **Median ask:** $198.06 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,311 domains · **Median ask:** $205.69 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/audio`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| jobs.audio         | available | $159.98   | —             | 79             | 42     | 4      | namecheap |
-| insight.audio      | premium   | $2,800    | $2,800        | 76             | 69     | 8      | namecheap |
-| neuroscience.audio | available | $159.98   | —             | 80             | 37     | 12     | namecheap |
-| travelers.audio    | premium   | $2,660    | $2,660        | 58             | 61     | 9      | namesilo  |
-| events.audio       | available | $159.98   | —             | 68             | 37     | 6      | namecheap |
-| holidays.audio     | premium   | $2,660    | $2,660        | 78             | 23     | 8      | namesilo  |
-| tokens.audio       | available | $104.99   | $114.99       | 51             | 36     | 6      | namesilo  |
-| comics.audio       | premium   | $2,800    | $2,800        | 68             | 23     | 6      | namecheap |
-| homes.audio        | available | $159.98   | —             | 86             | 34     | 5      | namecheap |
-| LongBeach.audio    | premium   | $910      | $910          | 62             | 12     | 10     | namecheap |
-| Cats.audio         | available | $159.98   | —             | 59             | 33     | 4      | namecheap |
-| bankers.audio      | premium   | $2,660    | $2,660        | 52             | 11     | 7      | namesilo  |
-| payments.audio     | available | $159.98   | —             | 58             | 33     | 8      | namecheap |
-| chiefs.audio       | premium   | $2,800    | $2,800        | 50             | 10     | 6      | namecheap |
-| rewards.audio      | available | $104.99   | $114.99       | 62             | 30     | 7      | namesilo  |
-| hookups.audio      | premium   | $2,800    | $2,800        | 74             | 9      | 8      | namecheap |
-| photos.audio       | available | $159.98   | —             | 54             | 28     | 6      | namecheap |
-| seton.audio        | premium   | $2,800    | $2,800        | 72             | 9      | 6      | namecheap |
-| backyard.audio     | available | $159.98   | —             | 80             | 27     | 9      | namecheap |
-| KFC.audio          | available | $159.98   | —             | 74             | 27     | 3      | namecheap |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| grandnephew.audio | available | $104.99   | $114.99       | 80             | 1      | 11     | namesilo  |
+| deviate.audio     | premium   | —         | —             | 84             | 12     | 7      | —         |
+| critique.audio    | available | $159.98   | —             | 84             | 12     | 8      | namecheap |
+| measure.audio     | available | $104.99   | $114.99       | 98             | 22     | 7      | namesilo  |
+| voting.audio      | available | $104.99   | $114.99       | 88             | 15     | 6      | namesilo  |
+| phrase.audio      | available | $104.99   | $114.99       | 94             | 11     | 6      | namesilo  |
+| fence.audio       | available | $104.99   | $114.99       | 85             | 21     | 5      | namesilo  |
+| punch.audio       | available | $104.99   | $114.99       | 87             | 25     | 5      | namesilo  |
+| drawing.audio     | available | $104.99   | $114.99       | 82             | 16     | 7      | namesilo  |
+| agape.audio       | premium   | —         | —             | 94             | 27     | 5      | —         |
+| diplomate.audio   | available | $104.99   | $114.99       | 93             | 3      | 9      | namesilo  |
+| icu.audio         | available | $104.99   | $114.99       | 84             | 30     | 3      | namesilo  |
+| bang.audio        | premium   | $832      | $832          | 126            | 30     | 4      | namesilo  |
+| before.audio      | available | $104.99   | $114.99       | 84             | 19     | 6      | namesilo  |
+| woman.audio       | available | $104.99   | $114.99       | 112            | 23     | 5      | namesilo  |
+| christ.audio      | premium   | $2,660    | $2,660        | 86             | 28     | 6      | namesilo  |
+| outer.audio       | available | $104.99   | $114.99       | 88             | 12     | 5      | namesilo  |
+| surrogate.audio   | available | $104.99   | $114.99       | 100            | 10     | 9      | namesilo  |
+| absurd.audio      | available | $130.98   | —             | 80             | 17     | 6      | namecheap |
+| casket.audio      | available | $104.99   | $114.99       | 84             | 8      | 6      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUDIO One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUDIO One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
