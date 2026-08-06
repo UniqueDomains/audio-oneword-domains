@@ -1,10 +1,10 @@
-# Available .AUDIO One-Word Domains (12,311)
+# Available .AUDIO One-Word Domains (12,313)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C311%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C313%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .audio one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,311 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,313 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,311 domains · **Median ask:** $205.69 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,313 domains · **Median ask:** $195.73 · **High-demand under $2,500:** 23
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/audio`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/audio`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .AUDIO one-word domain
 
 ### Files
 
-- `audio.csv` — public CSV extract (1,000 rows)
-- `audio.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `audio.csv`, public CSV extract (1,000 rows)
+- `audio.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| grandnephew.audio | available | $104.99   | $114.99       | 80             | 1      | 11     | namesilo  |
-| deviate.audio     | premium   | —         | —             | 84             | 12     | 7      | —         |
-| critique.audio    | available | $159.98   | —             | 84             | 12     | 8      | namecheap |
-| measure.audio     | available | $104.99   | $114.99       | 98             | 22     | 7      | namesilo  |
-| voting.audio      | available | $104.99   | $114.99       | 88             | 15     | 6      | namesilo  |
-| phrase.audio      | available | $104.99   | $114.99       | 94             | 11     | 6      | namesilo  |
-| fence.audio       | available | $104.99   | $114.99       | 85             | 21     | 5      | namesilo  |
-| punch.audio       | available | $104.99   | $114.99       | 87             | 25     | 5      | namesilo  |
-| drawing.audio     | available | $104.99   | $114.99       | 82             | 16     | 7      | namesilo  |
-| agape.audio       | premium   | —         | —             | 94             | 27     | 5      | —         |
-| diplomate.audio   | available | $104.99   | $114.99       | 93             | 3      | 9      | namesilo  |
-| icu.audio         | available | $104.99   | $114.99       | 84             | 30     | 3      | namesilo  |
-| bang.audio        | premium   | $832      | $832          | 126            | 30     | 4      | namesilo  |
-| before.audio      | available | $104.99   | $114.99       | 84             | 19     | 6      | namesilo  |
-| woman.audio       | available | $104.99   | $114.99       | 112            | 23     | 5      | namesilo  |
-| christ.audio      | premium   | $2,660    | $2,660        | 86             | 28     | 6      | namesilo  |
-| outer.audio       | available | $104.99   | $114.99       | 88             | 12     | 5      | namesilo  |
-| surrogate.audio   | available | $104.99   | $114.99       | 100            | 10     | 9      | namesilo  |
-| absurd.audio      | available | $130.98   | —             | 80             | 17     | 6      | namecheap |
-| casket.audio      | available | $104.99   | $114.99       | 84             | 8      | 6      | namesilo  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
+| act.audio    | available | $104.99   | $114.99       | high           | low    | 3      | namesilo                                 |
+| evolve.audio | resell    | —         | —             | high           | low    | 6      | Hosting Concepts B.V. d/b/a Registrar.eu |
+| hub.audio    | premium   | $2,660    | $2,660        | high           | medium | 3      | namesilo                                 |
+| ale.audio    | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo                                 |
+| matter.audio | resell    | —         | —             | medium         | low    | 6      | Namecheap                                |
+| our.audio    | premium   | $2,660    | $2,660        | medium         | medium | 3      | namesilo                                 |
+| bar.audio    | available | $104.99   | $114.99       | high           | low    | 3      | namesilo                                 |
+| yes.audio    | premium   | $832      | $832          | high           | medium | 3      | namesilo                                 |
+| boy.audio    | available | $159.98   | —             | medium         | low    | 3      | namecheap                                |
+| bali.audio   | premium   | $2,660    | $2,660        | medium         | medium | 4      | namesilo                                 |
+| cod.audio    | available | $104.99   | $114.99       | high           | low    | 3      | namesilo                                 |
+| bang.audio   | premium   | $832      | $832          | high           | low    | 4      | namesilo                                 |
+| coy.audio    | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo                                 |
+| paul.audio   | premium   | $832      | $832          | high           | medium | 4      | namesilo                                 |
+| die.audio    | available | $159.98   | —             | medium         | low    | 3      | namecheap                                |
+| punk.audio   | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo                                 |
+| flu.audio    | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo                                 |
+| spam.audio   | premium   | $2,800    | $2,800        | medium         | low    | 4      | namecheap                                |
+| gun.audio    | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo                                 |
+| true.audio   | premium   | $845      | $845          | high           | medium | 4      | namecheap                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,311 live domains                        |
+| 1,000-row public sample | 12,313 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 23 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up of one-word .audio domains. The words range from abstract terms like deviate.audio and agape.audio to more literal terms like measure.audio, phrase.audio, and drawing.audio. For founders, the main question is whether the word is memorable, easy to say, and clearly usable as a brand on a niche extension. For investors, the focus is whether the ask leaves room for resale given the narrower buyer pool of .audio. The median ask is 198.06, so the better opportunities in this set tend to be words with strong recognition, clean spelling, and direct relevance to audio, sound, music, voice, or media.
+This set covers 12,313 one-word .audio domain names, most of them available now rather than resale or premium listings. Pricing skews low, with the median ask near $196 and the majority of names listed under $500. A smaller cluster sits in the $2,000–$5,000 range, and a handful of names show demand scores in the top tier. Names in this list range across modern, elegant, and playful naming styles, giving both founders and investors a wide pool of one-word .audio options to compare on price, renewal, and brandability.
 
-- Prioritize clear, single-meaning words with clean spelling
-- Check whether the word fits audio, media, voice, or music use
-- Use the 198.06 median ask as a price discipline anchor
-- Be stricter on weak words because .audio is a niche extension
+- 12,313 available one-word .audio domains, updated daily
+- Median ask near $196; most list under $500
+- 444 premium listings, 11 resell in this set
+- Standouts like show.audio show large price-to-value gaps
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUDIO One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUDIO One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
