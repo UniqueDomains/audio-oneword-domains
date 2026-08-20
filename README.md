@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .audio one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,209 domains · **Median ask:** $172.86 · **High-demand under $2,500:** 27
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/audio`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
-| act.audio    | available | $104.99   | $114.99       | high           | low    | 3      | namesilo                                 |
-| evolve.audio | resell    | —         | —             | high           | low    | 6      | Hosting Concepts B.V. d/b/a Registrar.eu |
-| hub.audio    | premium   | $2,660    | $2,660        | high           | medium | 3      | namesilo                                 |
-| ale.audio    | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo                                 |
-| matter.audio | resell    | —         | —             | medium         | low    | 6      | Namecheap                                |
-| our.audio    | premium   | $2,660    | $2,660        | medium         | medium | 3      | namesilo                                 |
-| azo.audio    | available | $104.99   | $114.99       | low            | low    | 3      | namesilo                                 |
-| yes.audio    | premium   | $832      | $832          | high           | medium | 3      | namesilo                                 |
-| bar.audio    | available | $104.99   | $114.99       | high           | low    | 3      | namesilo                                 |
-| bali.audio   | premium   | $2,660    | $2,660        | medium         | medium | 4      | namesilo                                 |
-| bay.audio    | available | $104.99   | $114.99       | low            | low    | 3      | namesilo                                 |
-| bang.audio   | premium   | $832      | $832          | high           | low    | 4      | namesilo                                 |
-| boy.audio    | available | $159.98   | —             | medium         | low    | 3      | namecheap                                |
-| paul.audio   | premium   | $832      | $832          | high           | medium | 4      | namesilo                                 |
-| cod.audio    | available | $104.99   | $114.99       | high           | low    | 3      | namesilo                                 |
-| punk.audio   | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo                                 |
-| coy.audio    | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo                                 |
-| spam.audio   | premium   | $2,800    | $2,800        | medium         | low    | 4      | namecheap                                |
-| die.audio    | available | $159.98   | —             | medium         | low    | 3      | namecheap                                |
-| true.audio   | premium   | $845      | $845          | high           | medium | 4      | namecheap                                |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
+| correct.audio | available | $104.99   | $114.99       | high           | low    | 7      | namesilo                                 |
+| damn.audio    | available | $104.99   | $114.99       | high           | low    | 4      | namesilo                                 |
+| yes.audio     | premium   | $832      | $832          | high           | medium | 3      | namesilo                                 |
+| act.audio     | available | $104.99   | $114.99       | high           | low    | 3      | namesilo                                 |
+| evolve.audio  | resell    | —         | —             | high           | low    | 6      | Hosting Concepts B.V. d/b/a Registrar.eu |
+| hub.audio     | premium   | $2,660    | $2,660        | high           | medium | 3      | namesilo                                 |
+| ale.audio     | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo                                 |
+| matter.audio  | resell    | —         | —             | medium         | low    | 6      | Namecheap                                |
+| our.audio     | premium   | $2,660    | $2,660        | medium         | medium | 3      | namesilo                                 |
+| azo.audio     | available | $104.99   | $114.99       | low            | low    | 3      | namesilo                                 |
+| bar.audio     | available | $104.99   | $114.99       | high           | low    | 3      | namesilo                                 |
+| bali.audio    | premium   | $2,660    | $2,660        | medium         | medium | 4      | namesilo                                 |
+| bay.audio     | available | $104.99   | $114.99       | low            | low    | 3      | namesilo                                 |
+| bang.audio    | premium   | $832      | $832          | high           | low    | 4      | namesilo                                 |
+| boy.audio     | available | $159.98   | —             | medium         | low    | 3      | namecheap                                |
+| paul.audio    | premium   | $832      | $832          | high           | medium | 4      | namesilo                                 |
+| cod.audio     | available | $104.99   | $114.99       | high           | low    | 3      | namesilo                                 |
+| punk.audio    | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo                                 |
+| coy.audio     | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo                                 |
+| spam.audio    | premium   | $2,800    | $2,800        | medium         | low    | 4      | namecheap                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUDIO One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUDIO One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
