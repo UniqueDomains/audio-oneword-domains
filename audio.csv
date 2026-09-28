@@ -14,7 +14,7 @@ ef3ea9a2-cf02-4642-b43b-0b500ece5ba6,benzol.audio,available,108.98,159.98,high,l
 8574e0e1-d210-4510-b4f9-ebebd6c96149,cellar.audio,available,108.98,159.98,high,low,6,namecheap,,,22/09/2026 10:16
 8a0120eb-5448-4556-9b2b-c079423e72de,nether.audio,available,104.99,114.99,high,low,6,namesilo,,,12/08/2026 07:29
 0f281797-2dec-4dae-a615-16288f5528ae,tracing.audio,available,104.99,114.99,high,low,7,namesilo,,,
-e011e33f-2691-4df2-9c66-234bd891a032,bannister.audio,available,104.99,114.99,high,low,9,namesilo,,,22/09/2026 00:23
+e011e33f-2691-4df2-9c66-234bd891a032,bannister.audio,available,104.99,114.99,medium,low,9,namesilo,,,22/09/2026 00:23
 28136ce9-f2bb-442c-8a47-1e142e167b11,excision.audio,available,104.99,114.99,medium,low,8,namesilo,,,16/09/2026 16:06
 1efef763-f44d-4fb6-90df-5179c17fc120,acapulco.audio,available,108.98,159.98,high,low,8,namecheap,,,16/09/2026 21:10
 5aa0089c-c063-4917-a36b-0432e9e177b0,trim.audio,available,104.99,114.99,high,low,4,namesilo,,,12/08/2026 10:14
@@ -32,9 +32,9 @@ e1b150d8-616f-400a-9fd0-5c35d1cf97ca,boyd.audio,available,104.99,114.99,high,low
 9b3a9773-510d-4601-bcb6-ba93fdfcd5bc,wrench.audio,available,104.99,114.99,high,low,6,namesilo,,,
 85ae3475-bd86-47cf-bb2e-57af3e281878,balancing.audio,available,108.98,159.98,high,low,9,namecheap,,,21/09/2026 20:56
 44466a4c-15d2-46f6-ad3e-705dab136e78,beatable.audio,available,104.99,114.99,medium,low,8,namesilo,,,09/08/2026 05:37
-e9a71ad0-2785-4ece-8672-4666fc8a738d,aqualung.audio,available,104.99,114.99,high,low,8,namesilo,,,19/09/2026 22:54
+e9a71ad0-2785-4ece-8672-4666fc8a738d,aqualung.audio,available,104.99,114.99,medium,low,8,namesilo,,,19/09/2026 22:54
 b2577839-046c-4257-93ce-3240bb1b4526,saloons.audio,available,108.98,159.98,medium,low,7,namecheap,,,19/09/2026 22:32
-0402c723-a579-4fdc-9edb-4ba4236ff3d6,inquirer.audio,available,104.99,114.99,high,low,8,namesilo,,,20/09/2026 14:22
+0402c723-a579-4fdc-9edb-4ba4236ff3d6,inquirer.audio,available,104.99,114.99,medium,low,8,namesilo,,,20/09/2026 14:22
 2d885b30-ea3c-47d9-b8d4-8fda387e0b47,featured.audio,available,104.99,114.99,high,low,8,namesilo,,,24/09/2026 17:26
 702ff253-3035-4d81-9b8e-66fcf94dae2c,rasp.audio,available,104.99,114.99,high,low,4,namesilo,,,19/09/2026 15:15
 292b2c7b-c751-498f-b26b-23bfb17e2aef,hymie.audio,available,104.99,114.99,high,medium,5,namesilo,,,10/09/2026 06:16
@@ -50,7 +50,7 @@ ff08c7ea-5dce-4057-b6d0-bcd48f840586,libraries.audio,available,104.99,114.99,med
 91f6a4d2-4501-4aee-b698-89c6883a2e01,barque.audio,available,104.99,114.99,high,low,6,namesilo,,,22/09/2026 07:48
 7904acdd-df15-46ef-aac2-26cb49ecae57,eroded.audio,available,104.99,114.99,medium,low,6,namesilo,,,17/08/2026 12:24
 f28b845f-df89-4632-a18f-448ba27b2360,diplomacy.audio,available,104.99,114.99,high,low,9,namesilo,,,
-e1eaccca-b89b-4022-ac40-21029eed2162,pout.audio,available,108.98,159.98,high,low,4,namecheap,,,18/09/2026 18:12
+e1eaccca-b89b-4022-ac40-21029eed2162,pout.audio,available,108.98,159.98,medium,low,4,namecheap,,,18/09/2026 18:12
 d3635249-1c61-433f-a539-a05e4911d4c5,grew.audio,available,104.99,114.99,high,low,4,namesilo,,,
 a3fb1b85-d571-4125-bb0d-fc35d7f8f7ed,hardworking.audio,available,104.99,114.99,high,low,11,namesilo,,,
 8f078ccd-8e0c-4c61-ac51-1954c48cb3ae,penn.audio,premium,2660,2660,high,low,4,namesilo,,,25/09/2026 09:52
@@ -64,7 +64,7 @@ eb21c07f-7685-4c1c-9f80-befd751f59c4,excused.audio,available,104.99,114.99,mediu
 505969c0-e07f-4a7f-8f3b-6903286ba42a,irving.audio,available,104.99,114.99,medium,low,6,namesilo,,,25/09/2026 07:50
 a2f2921d-4dc9-4967-b303-b85af1cc41c4,althaea.audio,available,108.98,159.98,medium,low,7,namecheap,,,18/09/2026 14:53
 b9fc44d2-2fe3-4375-837b-984ed542a3d2,penial.audio,available,104.99,114.99,medium,low,6,namesilo,,,08/09/2026 14:23
-5237441a-bdc1-44d2-b822-1b1322b2f551,brunette.audio,available,104.99,114.99,high,low,8,namesilo,,,11/08/2026 06:56
+5237441a-bdc1-44d2-b822-1b1322b2f551,brunette.audio,available,104.99,114.99,medium,low,8,namesilo,,,11/08/2026 06:56
 dc267e52-748f-4ee8-b875-48201c31c8cb,adjunct.audio,available,104.99,114.99,high,low,7,namesilo,,,
 1236c1b6-8077-4554-a1b0-2f704728e7d2,absorbing.audio,available,108.98,159.98,high,low,9,namecheap,,,21/09/2026 15:02
 a487674e-dba1-42bd-88eb-715ed32ed9ff,newfound.audio,available,104.99,114.99,medium,low,9,namesilo,,,08/09/2026 04:48
@@ -89,8 +89,8 @@ a93ac139-5e9d-4dcc-a55b-a186395ae4e0,glut.audio,available,104.99,114.99,high,low
 ee6b9354-a757-4c99-bdcb-c0438a679aa5,aalst.audio,available,108.98,159.98,medium,low,5,namecheap,,,16/09/2026 13:16
 6b70ca99-07b5-4f6a-a501-4644142e6547,dazzling.audio,available,104.99,114.99,high,low,8,namesilo,,,10/08/2026 13:44
 52d3e446-b794-4725-bd69-4ae176fca371,saler.audio,available,104.99,114.99,medium,low,5,namesilo,,,
-238ef16d-fe47-4cd6-bf76-0b6ea7d806c5,numerical.audio,available,104.99,114.99,high,low,9,namesilo,,,03/09/2026 22:52
-5f1393f2-7cea-4c40-a80e-defaaa5f3caf,folksy.audio,available,104.99,114.99,high,low,6,namesilo,,,13/08/2026 04:22
+238ef16d-fe47-4cd6-bf76-0b6ea7d806c5,numerical.audio,available,104.99,114.99,medium,low,9,namesilo,,,03/09/2026 22:52
+5f1393f2-7cea-4c40-a80e-defaaa5f3caf,folksy.audio,available,104.99,114.99,medium,low,6,namesilo,,,13/08/2026 04:22
 92649c4e-eacd-4509-84db-2622f30c07e5,seeded.audio,available,104.99,114.99,high,low,6,namesilo,,,10/09/2026 01:43
 3ec7b6d1-7b36-4325-bd5c-34b69125a2eb,patrol.audio,available,104.99,114.99,high,low,6,namesilo,,,25/09/2026 23:57
 e2a49e51-0293-4d73-8acf-0c3ae0693a09,arboreal.audio,available,104.99,114.99,high,low,8,namesilo,,,06/08/2026 13:18
@@ -110,7 +110,7 @@ d14edfc7-903c-42c4-8eb0-7708820f6404,whips.audio,available,104.99,114.99,medium,
 85eecf2c-226b-478b-a81d-cd16e406fbbf,leiden.audio,available,104.99,114.99,high,low,6,namesilo,,,25/09/2026 23:25
 4bbd2099-4376-4b36-bd7a-435302bbd1f6,actor.audio,available,104.99,114.99,high,low,5,namesilo,,,
 cc4c020a-ed58-4a28-98d3-70d262d95dc0,princess.audio,premium,2660,2660,high,low,8,namesilo,,,
-2274d17d-2f13-4afa-bb04-10b8e7369670,ruined.audio,available,159.98,,high,low,6,namecheap,,,
+2274d17d-2f13-4afa-bb04-10b8e7369670,ruined.audio,available,93.35,103.4,high,low,6,spaceship,,,27/09/2026 16:41
 1b7627fc-d835-4e91-a61d-a62f60154779,streetcleaner.audio,available,159.98,,low,low,14,namecheap,,,
 4ca31646-8e40-4f1d-8118-005d3b4fc26b,nonionic.audio,available,108.98,159.98,medium,low,8,namecheap,,,03/09/2026 19:33
 cf9450b5-8aec-426c-a554-53706c609463,fling.audio,available,104.99,114.99,high,low,5,namesilo,,,
@@ -134,10 +134,10 @@ ef8f2de8-eb82-4581-8b52-4de30d8b8f82,step.audio,available,104.99,114.99,high,low
 7d6a5337-ae27-4084-b2b1-d5d00f3a3e3d,strongly.audio,available,104.99,114.99,high,low,8,namesilo,,,
 abf1136e-bf47-4497-a948-5e9957e03a36,meticulous.audio,available,104.99,114.99,high,low,10,namesilo,,,24/08/2026 22:04
 980a72a4-019a-4b90-a379-cf8f401f4268,sausage.audio,available,104.99,114.99,high,low,7,namesilo,,,
-e60303d4-0282-4128-880e-afba7b02de0c,blew.audio,available,108.98,159.98,high,low,4,namecheap,,,25/09/2026 11:11
+e60303d4-0282-4128-880e-afba7b02de0c,blew.audio,available,108.98,159.98,medium,low,4,namecheap,,,25/09/2026 11:11
 f276957a-2960-4cb8-a1c1-1e68246d288f,had.audio,available,104.99,114.99,high,low,3,namesilo,,,
 45845ba9-ea27-49e0-bfa0-673a7646ab0c,abattis.audio,available,104.99,114.99,medium,low,7,namesilo,,,16/09/2026 14:11
-290a9bb7-41ce-46cc-97cf-55c507c02a40,beckley.audio,available,104.99,114.99,high,low,7,namesilo,,,22/09/2026 22:43
+290a9bb7-41ce-46cc-97cf-55c507c02a40,beckley.audio,available,104.99,114.99,medium,low,7,namesilo,,,22/09/2026 22:43
 29e41f01-e4b7-4918-b2ea-b0af68ef180b,locomote.audio,available,104.99,114.99,medium,low,8,namesilo,,,20/08/2026 15:49
 33803be4-6083-4925-b264-2d088c3ca0ed,sixties.audio,available,104.99,114.99,high,low,7,namesilo,,,16/09/2026 12:11
 4f744559-26fe-42aa-ade1-d8b1865a1bad,applier.audio,available,108.98,159.98,medium,low,7,namecheap,,,19/09/2026 21:54
@@ -178,7 +178,7 @@ a285c81c-225e-4504-8624-7bf11d61e3bd,angela.audio,available,104.99,114.99,high,l
 cba1a477-14c9-438a-889f-b26ac971aa73,loft.audio,premium,2600,2600,high,low,4,namecheap,,,22/09/2026 11:37
 0d9d1740-4670-4434-a5ff-79d536c76fd8,tokens.audio,available,104.99,114.99,high,medium,6,namesilo,,,19/09/2026 22:34
 e357eef4-e062-45fc-a0cb-2b337ab9ca9e,luxuriant.audio,available,104.99,114.99,high,low,9,namesilo,,,15/08/2026 22:14
-cda97bb1-000f-4366-935c-e7eaf25489b9,burnett.audio,available,108.98,159.98,high,low,7,namecheap,,,25/09/2026 03:44
+cda97bb1-000f-4366-935c-e7eaf25489b9,burnett.audio,available,108.98,159.98,medium,low,7,namecheap,,,25/09/2026 03:44
 0297ee55-3ff9-4b07-8608-aafe3c5fd685,grubby.audio,available,104.99,114.99,medium,low,6,namesilo,,,09/08/2026 09:31
 4be3d2bc-36d7-410a-bc1c-ec3c9f0f20e5,lofty.audio,available,104.99,114.99,high,low,5,namesilo,,,17/08/2026 15:42
 0a771fa1-c525-4494-b076-9845fafcde5d,aftercare.audio,available,104.99,114.99,high,low,9,namesilo,,,17/09/2026 15:35
@@ -201,13 +201,13 @@ a2fc1af0-bcc5-48c2-ae7b-22dedfb04845,adventurer.audio,available,104.99,114.99,hi
 1ab481b2-2d9d-4349-b127-4e2e9c7e106f,under.audio,available,104.99,114.99,high,low,5,namesilo,,,
 08bce661-c3f3-463d-babd-890d10717b41,steamy.audio,available,104.99,114.99,medium,low,6,namesilo,,,21/08/2026 14:12
 4debb0e6-9275-4c72-92ea-f46e7a61b12b,holloway.audio,available,104.99,114.99,high,low,8,namesilo,,,26/09/2026 03:22
-daa86ab3-e72e-4c76-8de9-28bdb58c2e4a,marduk.audio,available,104.99,114.99,high,low,6,namesilo,,,21/09/2026 12:06
+daa86ab3-e72e-4c76-8de9-28bdb58c2e4a,marduk.audio,available,104.99,114.99,medium,low,6,namesilo,,,21/09/2026 12:06
 b962114f-e5ac-4873-98a9-a29da98a356c,philia.audio,available,104.99,114.99,high,low,6,namesilo,,,17/09/2026 14:21
 cb1b4c79-cfce-491c-9202-e0b7680e4636,annuity.audio,available,108.98,159.98,high,low,7,namecheap,,,19/09/2026 10:58
 fbcf9513-a5f7-4a2b-a1cf-a63b6001d2cb,gassy.audio,available,104.99,114.99,medium,low,5,namesilo,,,12/08/2026 16:36
 3a2ab5dd-a07a-4bca-9770-def40e3c1fab,skull.audio,available,104.99,114.99,high,low,5,namesilo,,,26/09/2026 00:19
 73198655-93fe-4875-81c0-b0904b85d931,cabbage.audio,available,159.98,,high,low,7,namecheap,,,
-7dc3c5eb-38e3-438c-8d12-b4737e93a1c0,nearest.audio,available,104.99,114.99,high,low,7,namesilo,,,
+7dc3c5eb-38e3-438c-8d12-b4737e93a1c0,nearest.audio,available,104.99,114.99,medium,low,7,namesilo,,,
 19fa322f-e094-405a-ab7b-38a1c38c8ea7,gory.audio,available,104.99,114.99,medium,low,4,namesilo,,,10/08/2026 15:23
 c60dae40-8d32-41d3-aa0f-b98f59decd2e,course.audio,available,104.99,114.99,high,low,6,namesilo,,,26/09/2026 03:35
 e1326e16-9476-4f2c-8799-02fa47785b7c,thespian.audio,available,104.99,114.99,high,low,8,namesilo,,,11/09/2026 13:05
@@ -221,7 +221,7 @@ bb56861d-3595-4b94-a51f-aef8ea4d04ce,gilbert.audio,available,104.99,114.99,high,
 64318b30-3265-4f8c-a8b3-3f81648176c3,belting.audio,available,104.99,114.99,high,low,7,namesilo,,,23/09/2026 07:06
 906d84b1-b42f-403e-9635-f922afd82e91,monday.audio,available,104.99,114.99,high,low,6,namesilo,,,
 138e24fe-94a7-4b66-8de2-a77623ea382e,scaled.audio,available,104.99,114.99,high,low,6,namesilo,,,09/09/2026 22:20
-1abadcc3-c5ed-45bd-a383-5fde922c770d,actuarial.audio,available,108.98,159.98,high,low,9,namecheap,,,
+1abadcc3-c5ed-45bd-a383-5fde922c770d,actuarial.audio,available,108.98,159.98,medium,low,9,namecheap,,,
 4d09e6e5-0ed4-4f61-a7fc-56a54bc0c64e,squirrel.audio,available,104.99,114.99,high,low,8,namesilo,,,
 3d918445-9d9c-45f9-a62d-f844d4dfe1fb,irani.audio,available,104.99,114.99,high,low,5,namesilo,,,22/08/2026 09:42
 110730c6-4069-4b97-ad27-35d5ff57c586,observe.audio,available,104.99,114.99,high,low,7,namesilo,,,25/09/2026 23:53
@@ -230,6 +230,7 @@ ea453f46-4c37-4572-93ee-086fad59eb92,barb.audio,available,104.99,114.99,high,low
 7ba61c3b-ae48-4434-8b32-108e7eca3649,osseous.audio,available,108.98,159.98,medium,low,7,namecheap,,,04/09/2026 18:18
 d7704f4d-3092-4894-9f6d-6458187eb385,amongst.audio,available,104.99,114.99,medium,low,7,namesilo,,,
 901e2326-de8c-403b-ae0d-5b07f670e413,bridgeable.audio,available,104.99,114.99,medium,low,10,namesilo,,,11/08/2026 04:00
+ee6d68a6-57c5-43f5-8e19-85dacdde6b16,adults.audio,available,104.99,114.99,medium,low,6,namesilo,,,27/09/2026 09:52
 22736191-cff4-4c98-9267-f9569913625b,mckinley.audio,available,104.99,114.99,high,low,8,namesilo,,,25/09/2026 04:51
 ef5b0c1d-d393-4832-9320-d31a5d19c1e6,flee.audio,available,104.99,114.99,high,low,4,namesilo,,,
 be671a13-2b48-4c61-b83f-1ca0933d4fbf,voter.audio,available,104.99,114.99,high,low,5,namesilo,,,
@@ -269,7 +270,7 @@ df0b458f-9b28-427e-a47a-5c74f5f47b1c,nippy.audio,available,104.99,114.99,high,lo
 757db50c-b9af-4c0b-8c42-0d77e21915fd,assail.audio,available,104.99,114.99,medium,low,6,namesilo,,,20/09/2026 15:49
 17e11f14-2ea0-4f64-88cc-609734b05fbd,held.audio,available,104.99,114.99,high,low,4,namesilo,,,21/08/2026 06:19
 03219234-c065-46a6-8158-bf06e5b0f375,exulting.audio,available,108.98,159.98,high,low,8,namecheap,,,17/08/2026 19:44
-6889f342-722a-4f0b-98a0-d1c99e2367aa,unabridged.audio,available,104.99,114.99,high,low,10,namesilo,,,11/09/2026 23:28
+6889f342-722a-4f0b-98a0-d1c99e2367aa,unabridged.audio,available,104.99,114.99,medium,low,10,namesilo,,,11/09/2026 23:28
 1a4b3253-69aa-417e-b508-bec2d95a94ba,damages.audio,available,108.98,159.98,high,low,7,namecheap,,,18/09/2026 18:40
 0ff5f343-082b-4819-9a88-55ae3b2a7c36,passel.audio,available,104.99,114.99,medium,low,6,namesilo,,,25/08/2026 00:35
 807d254f-c864-487d-a843-fc5cf0606eb7,bruise.audio,available,104.99,114.99,high,low,6,namesilo,,,
@@ -322,7 +323,7 @@ e34988c1-0562-4d27-9788-cfface15176a,misses.audio,available,104.99,114.99,high,l
 bd6b51c3-6a6e-4fea-84c5-860432f698c1,glazed.audio,available,104.99,114.99,high,low,6,namesilo,,,20/08/2026 14:05
 d9304c9b-ef23-476a-9023-e55a46179c4c,perforce.audio,available,104.99,114.99,medium,low,8,namesilo,,,15/09/2026 19:36
 bb26363f-dc7b-448e-b05e-075a3dbee612,directed.audio,available,104.99,114.99,high,low,8,namesilo,,,24/09/2026 10:49
-9e5fbfce-04c5-410d-99a5-bef6a52f1f10,positional.audio,available,104.99,114.99,high,low,10,namesilo,,,09/09/2026 00:06
+9e5fbfce-04c5-410d-99a5-bef6a52f1f10,positional.audio,available,104.99,114.99,medium,low,10,namesilo,,,09/09/2026 00:06
 a4cb41ee-eb44-4b8b-bea2-6453245e5280,skyward.audio,available,104.99,114.99,high,low,7,namesilo,,,21/08/2026 05:26
 1af370e6-d122-407f-aa2b-d625d237440b,package.audio,available,108.98,159.98,high,low,7,namecheap,,,24/09/2026 07:42
 1c360cac-9c2b-42ba-826a-85860552e1d3,muffled.audio,available,104.99,114.99,high,low,7,namesilo,,,03/09/2026 10:26
@@ -334,7 +335,7 @@ e05157a4-5a6d-441b-90e0-2a52a6d5bb91,marmoreal.audio,available,104.99,114.99,med
 06669354-34f2-4c20-9b0a-8d7a07bb536d,horny.audio,premium,2600,2600,high,low,5,namecheap,,,13/08/2026 01:41
 71c19250-0dee-4ac8-91df-cab92509a1ba,scoop.audio,available,108.98,159.98,high,low,5,namecheap,,,19/09/2026 16:31
 b67090b8-b0b7-4416-8f11-a62696f56a4b,blithe.audio,available,104.99,114.99,high,low,6,namesilo,,,10/08/2026 14:37
-73906b7c-f58e-461c-8a77-a55413145078,odorless.audio,available,104.99,114.99,high,low,8,namesilo,,,22/08/2026 06:02
+73906b7c-f58e-461c-8a77-a55413145078,odorless.audio,available,104.99,114.99,medium,low,8,namesilo,,,22/08/2026 06:02
 85e544d1-58cc-4ce4-96e9-c095d495f793,questioner.audio,available,108.98,159.98,medium,low,10,namecheap,,,20/09/2026 14:25
 ee25f52a-a46a-48f5-bc9c-019beabdf6ce,corbett.audio,available,104.99,114.99,high,low,7,namesilo,,,27/09/2026 03:35
 e835e5ff-6019-47ca-8cd8-be3b398906bf,optical.audio,premium,832,832,high,low,7,namesilo,,,04/09/2026 00:42
@@ -352,9 +353,9 @@ b278c9fb-f6b9-4aa2-bc66-898ee8958ba3,soul.audio,premium,2660,2660,high,medium,4,
 3b6d58d8-06f3-4ad5-a174-4136de6a8fa8,ruffianly.audio,available,108.98,159.98,high,medium,9,namecheap,,,09/09/2026 19:19
 948be7af-5106-4c58-9d4a-b5e1a5a1929b,helpful.audio,available,104.99,114.99,high,low,7,namesilo,,,21/08/2026 06:37
 f6bd6a7e-6dae-41b8-81db-27fc97ca71ee,aspen.audio,available,104.99,114.99,high,medium,5,namesilo,,,20/09/2026 14:46
-068a8b89-dc35-4fca-8c33-6ddc7bdf8c0e,bicycles.audio,available,104.99,114.99,high,low,8,namesilo,,,18/09/2026 23:48
-eb2f46bc-b7e8-42f0-ac24-441e98ba2dca,blinding.audio,available,104.99,114.99,high,low,8,namesilo,,,10/08/2026 13:42
-a1fc3b04-e00b-447c-ac8e-2252e5ed8f0f,petitioner.audio,available,104.99,114.99,high,low,10,namesilo,,,11/09/2026 03:30
+068a8b89-dc35-4fca-8c33-6ddc7bdf8c0e,bicycles.audio,available,104.99,114.99,medium,low,8,namesilo,,,18/09/2026 23:48
+eb2f46bc-b7e8-42f0-ac24-441e98ba2dca,blinding.audio,available,104.99,114.99,medium,low,8,namesilo,,,10/08/2026 13:42
+a1fc3b04-e00b-447c-ac8e-2252e5ed8f0f,petitioner.audio,available,104.99,114.99,medium,low,10,namesilo,,,11/09/2026 03:30
 da1e1b66-ac35-4a2c-986c-b1b7421f25bc,lithe.audio,available,104.99,114.99,high,low,5,namesilo,,,24/08/2026 00:26
 7574de62-4980-446c-b11c-07f21354948d,apian.audio,available,104.99,114.99,medium,low,5,namesilo,,,05/08/2026 23:47
 5ef8df8f-4a01-4aa3-9b84-145ee2b07379,unpatented.audio,available,104.99,114.99,medium,low,10,namesilo,,,12/09/2026 16:29
@@ -393,7 +394,7 @@ ae285a3f-62b3-4189-9cdc-cec6a5f9a089,hoffman.audio,premium,832,832,high,low,7,na
 77721171-e924-4688-bc4d-ea1c43b6c0f4,primary.audio,available,104.99,114.99,high,low,7,namesilo,,,27/09/2026 05:41
 f367294e-8439-4db9-b243-702e0763ae2b,bare.audio,premium,2660,2660,high,low,4,namesilo,,,22/09/2026 11:54
 ee522f14-6cc1-4f2e-8bf8-cb2006756e47,seen.audio,available,104.99,114.99,high,low,4,namesilo,,,
-4a7349a6-e8b8-4e3c-a723-eb4038a91d24,archbishop.audio,available,299.99,299.99,high,low,10,name.com,,,20/09/2026 01:46
+4a7349a6-e8b8-4e3c-a723-eb4038a91d24,archbishop.audio,available,299.99,299.99,medium,low,10,name.com,,,20/09/2026 01:46
 6f4287a8-3a2d-4d1a-86c0-256d218b9f7d,height.audio,available,108.98,159.98,high,low,6,namecheap,,,25/09/2026 19:39
 46ab9421-69cd-49fe-98e0-f5ab55a6e7c9,puzzlement.audio,available,104.99,114.99,medium,low,10,namesilo,,,21/09/2026 17:39
 47aaeb33-7f6d-4191-8ff5-09ee69e0f3dc,pituitary.audio,available,108.98,159.98,high,medium,9,namecheap,,,08/09/2026 20:08
@@ -406,10 +407,10 @@ edd48a05-696e-42a9-bf86-520f20b5be75,aeolia.audio,available,104.99,114.99,medium
 c0a0537e-133a-4423-bc03-3bdf3002cec9,complaint.audio,available,104.99,114.99,high,low,9,namesilo,,,25/09/2026 07:37
 12ef7ecc-dfd5-4992-a6db-1075f9d5cb09,attribute.audio,available,108.98,159.98,high,low,9,namecheap,,,21/09/2026 02:16
 8aed22e6-ab68-44c3-b70e-1d30421266d1,saddle.audio,available,104.99,114.99,high,low,6,namesilo,,,
-3289b1e7-7d63-432c-a973-0248ea61bc6f,miscellany.audio,available,104.99,114.99,high,low,10,namesilo,,,25/08/2026 08:20
+3289b1e7-7d63-432c-a973-0248ea61bc6f,miscellany.audio,available,104.99,114.99,medium,low,10,namesilo,,,25/08/2026 08:20
 ee14586f-eca7-4c9c-8005-675a05fe47a2,bookshelf.audio,available,104.99,114.99,high,low,9,namesilo,,,24/09/2026 07:17
 b3ec9b1c-2074-4e8b-868b-64721349d99f,leaders.audio,available,104.99,114.99,high,low,7,namesilo,,,
-ffca2c17-e02d-4733-800f-97c933502026,hefty.audio,premium,2600,2600,high,low,5,namecheap,,,11/08/2026 02:48
+ffca2c17-e02d-4733-800f-97c933502026,hefty.audio,premium,2600,2600,medium,low,5,namecheap,,,11/08/2026 02:48
 99ffbb12-0a42-48c4-b060-03e64e3e8b9c,stirred.audio,available,104.99,114.99,high,low,7,namesilo,,,25/08/2026 09:07
 df118470-ca90-4812-8fc2-a82b1bff4028,experiment.audio,available,104.99,114.99,high,low,10,namesilo,,,23/09/2026 08:49
 e8233279-8e11-416c-8b0d-716384fef380,accoutered.audio,available,104.99,114.99,medium,low,10,namesilo,,,
@@ -442,23 +443,23 @@ ff8f535c-b3f2-4136-87df-27763ced73b4,fever.audio,available,104.99,114.99,high,lo
 a685d586-10cf-413c-8e48-4dde63e701d5,seeping.audio,available,104.99,114.99,medium,low,7,namesilo,,,04/09/2026 15:36
 f658965d-d9a0-407d-a3f1-b7e007011336,asperity.audio,available,104.99,114.99,medium,low,8,namesilo,,,20/09/2026 14:51
 cdb3b517-0472-4f0d-bfe5-9b27147286e9,happiness.audio,available,104.99,114.99,high,low,9,namesilo,,,
-b94ce1dc-7058-4b0b-be75-17e61bab131c,ruled.audio,available,159.98,,high,low,5,namecheap,,,
+b94ce1dc-7058-4b0b-be75-17e61bab131c,ruled.audio,available,93.35,103.4,high,low,5,spaceship,,,27/09/2026 16:50
 257998d7-4987-427c-ae51-8ebd40e95918,senile.audio,available,104.99,114.99,medium,low,6,namesilo,,,14/08/2026 14:36
 264cdf32-bc55-4fa7-91e5-85e7bf1a4b62,stereotype.audio,available,159.98,,high,low,10,namecheap,,,
 9725764f-c1b8-40b6-b602-8d864ba3f24b,alan.audio,available,108.98,159.98,high,low,4,namecheap,,,25/09/2026 11:29
 2ddaa102-3784-46c5-8efb-0f28a9b158cf,particular.audio,available,108.98,159.98,high,low,10,namecheap,,,24/09/2026 18:23
-c3ca2d89-d9d2-4ed0-a879-97fa6955fdf8,race.audio,available,159.98,,high,low,4,namecheap,,,
+c3ca2d89-d9d2-4ed0-a879-97fa6955fdf8,race.audio,available,104.99,114.99,high,low,4,namesilo,,,27/09/2026 17:26
 b8c82e03-86b8-4232-b7a3-93c5f93c6de9,essene.audio,available,104.99,114.99,medium,low,6,namesilo,,,17/08/2026 13:19
 1be11fd7-2701-495c-9ef5-80be0964c09d,wind.audio,premium,2600,2600,high,low,4,namecheap,,,
 155e9948-b693-4e4d-9eb2-f6398d43831b,alkyd.audio,available,104.99,114.99,medium,low,5,namesilo,,,18/09/2026 08:33
 19ed2b9b-ae57-43b7-9f3c-e4cf34a7c43b,baldly.audio,available,104.99,114.99,medium,low,6,namesilo,,,13/09/2026 23:11
-a9410302-b7ae-43b8-8205-b0e9dcfe3797,vegetables.audio,available,104.99,114.99,high,low,10,namesilo,,,16/09/2026 12:36
+a9410302-b7ae-43b8-8205-b0e9dcfe3797,vegetables.audio,available,104.99,114.99,medium,low,10,namesilo,,,16/09/2026 12:36
 eea98302-61e4-4bbe-ae79-4e87a395319d,yell.audio,available,104.99,114.99,high,low,4,namesilo,,,
 a9332048-c768-4d06-93e8-6c66dad84b5c,scentless.audio,available,104.99,114.99,medium,low,9,namesilo,,,09/09/2026 23:00
 1c77d5c0-ffdd-4e85-800c-f97ab1f06870,volary.audio,available,108.98,159.98,medium,low,6,namecheap,,,21/09/2026 09:24
 43eab686-f55a-44fa-a056-43c130a81955,bacterial.audio,available,104.99,114.99,high,low,9,namesilo,,,22/09/2026 16:00
 f269ea3f-341f-406a-aa44-96a237890594,cetacean.audio,available,104.99,114.99,medium,low,8,namesilo,,,12/08/2026 01:02
-d610453a-c78f-4924-b34e-057a24f35bce,timid.audio,available,104.99,114.99,high,low,5,namesilo,,,11/08/2026 22:46
+d610453a-c78f-4924-b34e-057a24f35bce,timid.audio,available,104.99,114.99,medium,low,5,namesilo,,,11/08/2026 22:46
 a3768a6e-98d7-4e26-97f6-bbdcd6a9c874,unbeatable.audio,available,104.99,114.99,high,low,10,namesilo,,,25/09/2026 11:12
 949d617b-186d-4a1f-877f-7571596c3b14,cadastral.audio,available,104.99,114.99,medium,low,9,namesilo,,,11/08/2026 12:39
 6b45868e-e6d2-454b-94c2-6af94a5e01bd,cooper.audio,premium,845,845,high,low,6,namecheap,,,22/09/2026 08:17
@@ -475,7 +476,7 @@ ef7532f2-0573-42fc-b7f0-d02a47575f32,clinical.audio,available,104.99,114.99,high
 468d1b11-1545-4b1f-af57-a62f2be6516a,whispering.audio,available,104.99,114.99,high,low,10,namesilo,,,03/09/2026 11:10
 a31fdd91-65ba-41c1-93cb-57150f945060,frankly.audio,available,104.99,114.99,high,low,7,namesilo,,,14/09/2026 05:08
 d6ee2124-4aa6-40d9-9a0b-cbb818822e5b,astringent.audio,available,104.99,114.99,medium,low,10,namesilo,,,
-a9ef09fe-779c-4316-9eb8-4a8e96560cf1,pectoral.audio,available,104.99,114.99,high,low,8,namesilo,,,08/09/2026 11:58
+a9ef09fe-779c-4316-9eb8-4a8e96560cf1,pectoral.audio,available,104.99,114.99,medium,low,8,namesilo,,,08/09/2026 11:58
 0d336635-aca9-4c31-a83c-a2c475714736,berserker.audio,available,104.99,114.99,medium,low,9,namesilo,,,09/08/2026 15:17
 2816829d-3a62-4944-943f-a7f233c62af3,axe.audio,available,104.99,114.99,high,low,3,namesilo,,,
 3feda924-f968-4c8d-8f84-21659ec83999,linelike.audio,available,104.99,114.99,medium,low,8,namesilo,,,23/08/2026 15:03
@@ -504,17 +505,17 @@ b9dd0b22-2486-47d0-bdcb-9c8e9d9d8b43,engraved.audio,available,104.99,114.99,high
 e3f3900b-0ad9-406c-be15-8ddda4f6d582,zip.audio,premium,832,832,high,low,3,namesilo,,,03/09/2026 22:43
 73512a62-1c25-442d-8008-9796549db756,ethiopian.audio,available,104.99,114.99,high,low,9,namesilo,,,17/08/2026 13:47
 2d5d02b3-1b89-427f-9e6c-8ffcc2226351,unlearned.audio,available,104.99,114.99,medium,low,9,namesilo,,,21/08/2026 18:31
-ac96d015-b90c-48a5-872a-062df3d55153,faces.audio,available,104.99,114.99,high,low,5,namesilo,,,
-5b94bbe7-cc63-4f09-a8be-9b480b7ef587,combative.audio,available,108.98,159.98,high,low,9,namecheap,,,
+ac96d015-b90c-48a5-872a-062df3d55153,faces.audio,available,104.99,114.99,medium,low,5,namesilo,,,
+5b94bbe7-cc63-4f09-a8be-9b480b7ef587,combative.audio,available,108.98,159.98,medium,low,9,namecheap,,,
 ff5c2ffb-b33d-48fa-b91c-5e000e4060bf,serene.audio,premium,832,832,high,low,6,namesilo,,,11/08/2026 14:51
 62669070-af2f-403a-ab6e-e1373b54ce18,adapid.audio,available,108.98,159.98,low,low,6,namecheap,,,17/09/2026 06:24
-1026fde5-6a77-4836-84a5-4f912cc6868f,tolerable.audio,available,108.98,159.98,high,low,9,namecheap,,,24/09/2026 16:18
+1026fde5-6a77-4836-84a5-4f912cc6868f,tolerable.audio,available,108.98,159.98,medium,low,9,namecheap,,,24/09/2026 16:18
 6d2c5b27-fd08-4d51-8f38-cc23bd033328,taut.audio,available,104.99,114.99,high,low,4,namesilo,,,11/09/2026 09:17
 5fc93503-d575-4ea8-8126-6cd74e8be529,pattern.audio,available,104.99,114.99,high,low,7,namesilo,,,25/08/2026 02:49
 042934b7-d24d-4d1a-82a9-9c17d82a3009,unseeing.audio,available,104.99,114.99,high,medium,8,namesilo,,,10/09/2026 07:57
 1a8c18ca-e1ce-4307-8d2b-b6d64928c2fa,percussive.audio,available,104.99,114.99,high,low,10,namesilo,,,08/09/2026 16:22
 19a415dd-0cb5-4d24-8cd2-dafcf3f66a7b,cucumbers.audio,available,104.99,114.99,high,low,9,namesilo,,,20/09/2026 10:05
-74caee6d-79ba-427b-b4a1-07bd63d9ca90,southern.audio,available,104.99,114.99,high,low,8,namesilo,,,
+74caee6d-79ba-427b-b4a1-07bd63d9ca90,southern.audio,available,104.99,114.99,high,low,8,namesilo,,,27/09/2026 23:59
 dc8fab28-8827-4f43-9e0b-9c5eca450a91,abor.audio,available,104.99,114.99,medium,low,4,namesilo,,,16/09/2026 16:36
 b114fb46-b7d6-4938-8a88-9706f193c33a,incumbent.audio,available,104.99,114.99,high,low,9,namesilo,,,22/08/2026 02:03
 72332e86-638f-4db4-9a43-16c625d5d779,bitok.audio,available,108.98,159.98,medium,low,5,namecheap,,,23/09/2026 22:40
@@ -524,17 +525,17 @@ ac2c208b-b799-43ce-91fd-c16ed9597c64,neck.audio,available,104.99,114.99,high,low
 b7535c59-d3a7-4803-8116-2dbf1fce9b4d,surgery.audio,available,104.99,114.99,high,low,7,namesilo,,,25/09/2026 23:54
 b1162d4c-cb49-4cc5-932b-eee243cfffb0,ellison.audio,available,108.98,159.98,high,low,7,namecheap,,,27/09/2026 03:49
 f54eb019-f4f9-43ff-9b00-57e754898c29,chordate.audio,available,104.99,114.99,medium,low,8,namesilo,,,12/08/2026 07:12
-173c262d-e6f0-4742-8e21-b0f312787a3f,cathodic.audio,available,104.99,114.99,high,low,8,namesilo,,,11/08/2026 21:56
+173c262d-e6f0-4742-8e21-b0f312787a3f,cathodic.audio,available,104.99,114.99,medium,low,8,namesilo,,,11/08/2026 21:56
 6e558884-1a4b-481a-a4b0-37fda109ce2a,dangers.audio,available,104.99,114.99,medium,low,7,namesilo,,,18/09/2026 04:42
 4501779b-5405-42e5-be6b-ffbeaca30e70,momentous.audio,available,104.99,114.99,high,low,9,namesilo,,,25/08/2026 03:59
-65fe45bb-7382-49f4-afe2-3fc9f0556764,abrasion.audio,available,104.99,114.99,high,low,8,namesilo,,,16/09/2026 16:56
+65fe45bb-7382-49f4-afe2-3fc9f0556764,abrasion.audio,available,104.99,114.99,medium,low,8,namesilo,,,16/09/2026 16:56
 b03fd072-993e-482d-8b96-4bcba3bbc115,semiformal.audio,available,104.99,114.99,high,low,10,namesilo,,,10/08/2026 11:42
 d8b6a557-7e11-4cc2-b8e7-a0748347159f,delivery.audio,available,159.98,,high,low,8,namecheap,,,
 b520d1e4-2389-4f4b-a098-a3d7ab1bfc1a,globally.audio,available,104.99,114.99,high,low,8,namesilo,,,14/09/2026 21:41
 b0a3138e-9533-463e-a3e5-3c466c22b6f0,protestant.audio,available,104.99,114.99,high,low,10,namesilo,,,09/09/2026 04:08
 0da3e826-0fa0-4bc4-bc72-bd863d7b1717,etiologic.audio,available,104.99,114.99,medium,low,9,namesilo,,,
 2039e0a7-6681-4850-ba3c-786ad5d39a1a,iliac.audio,available,104.99,114.99,medium,low,5,namesilo,,,21/08/2026 18:45
-be84b2e3-8e11-4e9e-add3-e61786c442a2,smell.audio,available,104.99,114.99,high,low,5,namesilo,,,
+be84b2e3-8e11-4e9e-add3-e61786c442a2,smell.audio,available,93.35,103.4,high,low,5,spaceship,,,27/09/2026 22:50
 37363d57-0f38-4c05-bc91-8ce32b7bc5ab,prone.audio,available,104.99,114.99,medium,low,5,namesilo,,,27/09/2026 07:37
 3fe22a1a-bcb9-450f-9b70-350b42b8b185,bifurcated.audio,available,108.98,159.98,medium,low,10,namecheap,,,09/08/2026 20:24
 85fe80e1-4e20-4694-9799-074ad99e6ac4,arbalist.audio,available,104.99,114.99,medium,low,8,namesilo,,,20/09/2026 00:35
@@ -545,11 +546,11 @@ ab506021-ddce-4748-ba69-f1c2a35f1fd4,luckily.audio,available,108.98,159.98,high,
 7dfa2585-f9bf-4983-81eb-a5791e4320d7,tamely.audio,available,104.99,114.99,medium,low,6,namesilo,,,16/09/2026 07:53
 02310f5d-972b-4bad-9e20-791b7a2d9adf,blended.audio,available,104.99,114.99,high,low,7,namesilo,,,10/08/2026 14:14
 d8861a62-bb99-4af4-9364-8f4ad50cf9b3,portland.audio,premium,832,832,high,low,8,namesilo,,,
-8af6379e-b31c-483a-8e42-c0a5e462b30c,postmortem.audio,available,104.99,114.99,high,low,10,namesilo,,,09/09/2026 00:31
+8af6379e-b31c-483a-8e42-c0a5e462b30c,postmortem.audio,available,104.99,114.99,medium,low,10,namesilo,,,09/09/2026 00:31
 339ded6c-3244-428f-8aba-57ba1ffd9121,deserving.audio,available,104.99,114.99,high,low,9,namesilo,,,14/08/2026 03:29
-b58d4e2e-4147-4825-af47-6f0fc12e6f94,satisfied.audio,available,104.99,114.99,high,low,9,namesilo,,,
+b58d4e2e-4147-4825-af47-6f0fc12e6f94,satisfied.audio,available,104.99,114.99,high,low,9,namesilo,,,27/09/2026 09:14
 774d7cdd-3ddc-40f8-b388-cbe54a4c0765,illinois.audio,available,108.98,159.98,high,low,8,namecheap,,,21/08/2026 18:40
-a42dd46e-66c1-4027-85fd-28fb62b0a904,arguing.audio,available,104.99,114.99,high,low,7,namesilo,,,20/09/2026 04:50
+a42dd46e-66c1-4027-85fd-28fb62b0a904,arguing.audio,available,104.99,114.99,medium,low,7,namesilo,,,20/09/2026 04:50
 408cb8d7-0294-423c-a1e4-42b7e6f90021,frisian.audio,available,104.99,114.99,medium,low,7,namesilo,,,18/08/2026 15:59
 10dcd8cf-669a-4d00-a204-23d684010284,explanations.audio,available,104.99,114.99,medium,low,12,namesilo,,,17/09/2026 10:05
 f7c5e8ea-4a67-450a-816e-8a9c13bf56d2,disk.audio,available,104.99,114.99,high,low,4,namesilo,,,
@@ -558,7 +559,7 @@ b2e4690e-6c44-4f08-bd3e-057e3703042e,will.audio,available,104.99,114.99,high,med
 cfc04cdb-3725-40a0-9019-b462bfbeedad,undisciplined.audio,available,104.99,114.99,medium,low,13,namesilo,,,
 c569d2bf-7da2-4548-88d7-3dbc38f52c38,barkeep.audio,available,108.98,159.98,high,low,7,namecheap,,,22/09/2026 06:22
 8503685e-2c8b-41c6-8438-35fae586123f,nates.audio,available,104.99,114.99,medium,low,5,namesilo,,,09/08/2026 10:31
-fa13a899-0d7d-49f3-8b55-812fd75e014a,widely.audio,available,104.99,114.99,high,low,6,namesilo,,,
+fa13a899-0d7d-49f3-8b55-812fd75e014a,widely.audio,available,104.99,114.99,medium,low,6,namesilo,,,
 c95c42c6-c2ce-4aad-9059-18ba16c512c5,aguacate.audio,available,104.99,114.99,high,low,8,namesilo,,,07/08/2026 23:46
 1c67fa86-b88a-44b3-a074-45ddc2e909cb,unwrapped.audio,available,104.99,114.99,medium,low,9,namesilo,,,12/09/2026 22:53
 a8724d05-9d88-4d88-9820-930317939a52,dominos.audio,available,104.99,114.99,high,low,7,namesilo,,,24/09/2026 23:28
@@ -609,7 +610,7 @@ a744c15a-d143-4330-ab76-c3c23f041cd6,urbane.audio,available,104.99,114.99,high,l
 c0de9c16-6084-4f08-bb63-a4463aa6e2cd,workaday.audio,available,104.99,114.99,medium,low,8,namesilo,,,17/08/2026 14:58
 e207bb86-d6ea-44fe-b376-b1c982383477,shape.audio,available,104.99,114.99,high,low,5,namesilo,,,
 8a5903e7-4da4-4276-a0e1-56a792e4241c,meeter.audio,available,104.99,114.99,medium,low,6,namesilo,,,21/09/2026 01:27
-b3a7cf2f-8d1c-4eaa-979e-ba8e4a8a3cdf,fueled.audio,available,104.99,114.99,high,low,6,namesilo,,,18/08/2026 17:37
+b3a7cf2f-8d1c-4eaa-979e-ba8e4a8a3cdf,fueled.audio,available,104.99,114.99,medium,low,6,namesilo,,,18/08/2026 17:37
 a40a85a0-672f-4cf0-86f7-a242c4381b84,tropical.audio,available,108.98,159.98,high,low,8,namecheap,,,11/09/2026 20:24
 eb8923df-2278-41c2-b477-d67dc2d65562,bhutanese.audio,available,108.98,159.98,medium,low,9,namecheap,,,09/08/2026 18:24
 2c8c3965-2869-4ea4-80ed-06ae71fa29b5,thence.audio,available,104.99,114.99,medium,low,6,namesilo,,,15/09/2026 00:13
@@ -644,10 +645,11 @@ b93926cb-3401-4d35-96b4-42ad1d716589,triangular.audio,available,104.99,114.99,hi
 0f10e07d-9343-4108-9249-07726b119945,qualitative.audio,available,104.99,114.99,high,low,11,namesilo,,,
 6bd20f07-7c47-4658-b74f-607dfbca435b,chorally.audio,available,104.99,114.99,high,low,8,namesilo,,,14/09/2026 06:49
 3ed841fd-ff8c-43a1-9c9e-d93341beb3c1,sulphur.audio,available,104.99,114.99,medium,low,7,namesilo,,,20/09/2026 22:29
-39df9378-514e-4847-9093-dc66a1a6f3d6,vacations.audio,available,104.99,114.99,high,low,9,namesilo,,,20/09/2026 00:12
-537f3109-f8af-4f8d-8994-d79e1092242a,neophyte.audio,available,104.99,114.99,high,low,8,namesilo,,,18/08/2026 07:34
+39df9378-514e-4847-9093-dc66a1a6f3d6,vacations.audio,available,104.99,114.99,medium,low,9,namesilo,,,20/09/2026 00:12
+537f3109-f8af-4f8d-8994-d79e1092242a,neophyte.audio,available,104.99,114.99,medium,low,8,namesilo,,,18/08/2026 07:34
 d6fc6b49-4597-4360-9283-0021185c8716,aare.audio,available,104.99,114.99,high,low,4,namesilo,,,16/09/2026 13:18
 e3b5915d-bb87-4106-a061-742a267bf861,victories.audio,available,104.99,114.99,medium,low,9,namesilo,,,18/09/2026 09:23
+e1d85e37-cecb-42b5-a3f7-7d136578983d,harassment.audio,available,104.99,114.99,medium,low,10,namesilo,,,27/09/2026 13:56
 1a2c7ab9-6c7a-49e7-b19d-51237c04d441,oft.audio,available,108.98,159.98,high,low,3,namecheap,,,14/09/2026 20:06
 848d1202-e937-4ada-82ea-184ad7a7e90f,crosstown.audio,available,104.99,114.99,medium,low,9,namesilo,,,13/08/2026 08:13
 6800525c-a7ab-424c-9d18-f396ec8fca7a,canned.audio,available,104.99,114.99,high,low,6,namesilo,,,11/08/2026 17:10
@@ -656,11 +658,13 @@ e3b5915d-bb87-4106-a061-742a267bf861,victories.audio,available,104.99,114.99,med
 2e9f4a17-def8-435f-9756-5baac842f2fc,feasting.audio,available,104.99,114.99,high,low,8,namesilo,,,22/09/2026 03:07
 da4895d5-2652-4dfc-9bcb-84dbed48c361,dismissive.audio,available,104.99,114.99,medium,low,10,namesilo,,,14/08/2026 11:49
 e85efc44-0e02-485f-888b-a9f5c685b9a1,hostelry.audio,available,104.99,114.99,medium,low,8,namesilo,,,21/09/2026 02:26
+f74e4472-c778-475f-a89e-8d786620f1cb,borrowed.audio,available,108.98,159.98,medium,low,8,namecheap,,,27/09/2026 09:49
 9f489551-ec96-4b95-87a1-fb57db113038,anode.audio,available,104.99,114.99,high,low,5,namesilo,,,19/09/2026 11:14
 803d2f93-946b-4d36-9f50-f9665d8c45b0,kampala.audio,available,104.99,114.99,high,low,7,namesilo,,,24/09/2026 12:28
 80de0b34-0fe9-41c0-ab97-ea178f250f39,undeterred.audio,available,104.99,114.99,medium,low,10,namesilo,,,12/09/2026 07:59
 5d4fcdec-4757-4258-9742-c7fe42cd2a02,towed.audio,available,159.98,,medium,low,5,namecheap,,,
 2afe16d2-7d56-4cf6-82e5-e3e897b13552,overweight.audio,available,104.99,114.99,high,low,10,namesilo,,,18/08/2026 08:04
+fdb5f679-95a4-4280-9d3f-a81835451828,canceled.audio,available,103.5,90.93,medium,low,8,porkbun,,,27/09/2026 22:41
 c0296add-cc25-47ab-a9ae-57f63a7d1db4,cyclonic.audio,available,299.99,299.99,medium,low,8,name.com,,,13/08/2026 13:42
 2a597bab-392e-429c-a496-180f2a998e3e,gorky.audio,available,104.99,114.99,high,low,5,namesilo,,,18/09/2026 05:08
 e1106b4c-b0b8-4aef-967f-ee15a40440a0,autopsy.audio,available,104.99,114.99,high,low,7,namesilo,,,21/09/2026 07:38
@@ -683,7 +687,7 @@ e11d185f-0c3d-47b6-a19a-063056ad2746,behaviour.audio,available,108.98,159.98,hig
 fd25aee6-eb57-499c-a914-39df910af7c0,squally.audio,available,104.99,114.99,low,low,7,namesilo,,,10/09/2026 17:18
 c5aa1307-2bf1-4105-8c59-c148f0207994,anzio.audio,available,104.99,114.99,medium,low,5,namesilo,,,19/09/2026 16:01
 9fc154a2-b3bc-465e-8e38-6b5ca4975588,delusional.audio,available,104.99,114.99,medium,low,10,namesilo,,,14/08/2026 00:51
-673c5a9f-866c-4509-aa47-6436efac58c5,fried.audio,available,104.99,114.99,high,low,5,namesilo,,,13/08/2026 22:34
+673c5a9f-866c-4509-aa47-6436efac58c5,fried.audio,available,104.99,114.99,medium,low,5,namesilo,,,13/08/2026 22:34
 3f2dbb21-b826-4bfd-a4b8-e486001725db,intersection.audio,available,159.98,,high,low,12,namecheap,,,
 fea1b5fa-1d0e-40ba-a64b-a80436736fa7,consummate.audio,available,108.98,159.98,high,low,10,namecheap,,,23/09/2026 21:29
 11ef0468-a080-4658-8194-2751bccc919c,lust.audio,available,104.99,114.99,high,low,4,namesilo,,,
@@ -691,6 +695,7 @@ fea1b5fa-1d0e-40ba-a64b-a80436736fa7,consummate.audio,available,108.98,159.98,hi
 2ed955a0-4538-40eb-80e2-81c8f5e18568,amnio.audio,available,104.99,114.99,medium,low,5,namesilo,,,18/09/2026 22:23
 f5adc94e-4015-4219-b7a2-00255930abde,senses.audio,available,104.99,114.99,high,low,6,namesilo,,,
 2a0de8dc-1ad1-40d5-a73a-e26676c2ade6,simulated.audio,available,104.99,114.99,high,low,9,namesilo,,,18/08/2026 00:16
+fe1795c9-fd77-4b1e-af96-568433c1abed,tires.audio,available,108.98,159.98,medium,low,5,namecheap,,,27/09/2026 10:07
 a0d28a45-c2d5-4de3-a928-3e2cd025a08f,visioned.audio,available,104.99,114.99,high,low,8,namesilo,,,20/09/2026 16:28
 eb68eb09-11d2-4e41-a8fa-21f176293e22,clovers.audio,available,104.99,114.99,medium,low,7,namesilo,,,21/09/2026 06:52
 1e94b9c6-9aa9-4659-b0ce-c6cb57a0441b,joyless.audio,available,104.99,114.99,medium,low,7,namesilo,,,22/08/2026 14:04
@@ -711,11 +716,12 @@ b468bbbb-644a-48b3-b17c-680d5c12e105,jihadi.audio,available,104.99,114.99,medium
 f71a8fc1-72e7-4140-88e5-7384bf34e0ee,technical.audio,available,108.98,159.98,high,low,9,namecheap,,,23/09/2026 20:19
 1f9fa977-93c5-4201-a73e-100f3a521e18,ape.audio,premium,832,832,high,low,3,namesilo,,,
 b736c6e6-b19a-442d-aebc-94482b1e52a4,absorbent.audio,available,104.99,114.99,high,low,9,namesilo,,,
+e0af4fc0-3934-4115-81d1-11ed0389dc61,cemetery.audio,available,104.99,114.99,high,low,8,namesilo,,,27/09/2026 12:06
 488345d3-bca7-464c-b5c2-725cd8ba55a9,lenient.audio,available,104.99,114.99,high,low,7,namesilo,,,22/08/2026 23:46
 b9a76bc1-0a49-414b-ab6a-c8eb0080fdad,unverified.audio,available,104.99,114.99,medium,low,10,namesilo,,,12/09/2026 22:13
 a05fd6c9-031d-4817-bd65-695d2635e245,capricious.audio,available,108.98,159.98,medium,low,10,namecheap,,,11/08/2026 18:04
 d961b964-e2b2-4d1e-8500-a24c49a952ce,polished.audio,available,104.99,114.99,high,low,8,namesilo,,,24/08/2026 23:10
-0c830fe0-c372-482b-be40-5eb27686c14d,cinnabar.audio,available,104.99,114.99,high,low,8,namesilo,,,12/08/2026 05:49
+0c830fe0-c372-482b-be40-5eb27686c14d,cinnabar.audio,available,104.99,114.99,medium,low,8,namesilo,,,12/08/2026 05:49
 e03e8aaf-9264-4d05-8c82-6f421f1f365e,ingram.audio,available,104.99,114.99,medium,low,6,namesilo,,,26/09/2026 03:39
 64d4a49f-2440-4ba7-869d-53daf53fefff,snuggery.audio,available,104.99,114.99,high,medium,8,namesilo,,,10/09/2026 12:53
 aec78fb7-642c-4001-94d7-87a37de19cae,suitably.audio,available,108.98,159.98,medium,low,8,namecheap,,,13/09/2026 20:30
@@ -729,6 +735,7 @@ cacbd9da-7fe2-4b4d-9641-e5ed07b4a12d,lordly.audio,available,104.99,114.99,medium
 34d3dad5-cbb5-4049-a7a2-0e43c333f27e,tolerate.audio,available,104.99,114.99,high,low,8,namesilo,,,24/09/2026 10:45
 ca5b392d-6864-4800-b8bf-35c061c595e4,skywards.audio,available,104.99,114.99,medium,low,8,namesilo,,,10/09/2026 09:51
 72ae7451-ed91-4090-bece-5b61e780aeb5,thrifty.audio,premium,2600,2600,high,low,7,namecheap,,,11/09/2026 14:34
+c9597c6e-a18c-42e2-8ac0-67dea856ec80,explaining.audio,available,93.35,103.4,high,low,10,spaceship,,,27/09/2026 22:18
 d4c74fa2-e68a-4b65-9436-5b8e814e66b6,appoint.audio,available,104.99,114.99,high,low,7,namesilo,,,
 188dafec-dbe2-4246-b989-06aab5d6d674,multiplayer.audio,available,104.99,114.99,high,low,11,namesilo,,,
 fa139902-b2ff-47c8-95ec-69bb87f088f7,accra.audio,available,104.99,114.99,high,low,5,namesilo,,,16/09/2026 23:13
@@ -746,6 +753,7 @@ b0d95df5-300a-4a78-928d-ed3a82287a7f,airing.audio,available,104.99,114.99,high,l
 908ae454-1bb5-497f-9672-1e1e27c77de1,rootless.audio,available,104.99,114.99,high,medium,8,namesilo,,,09/09/2026 18:36
 8bef1bac-36d4-4262-ba12-98fa879cb52a,club.audio,premium,2660,2660,high,low,4,namesilo,,,
 e51cf69f-14ec-4ca4-b477-9823ff36229d,sgt.audio,available,104.99,114.99,high,low,3,namesilo,,,27/09/2026 06:19
+f7876f43-6baf-4f3e-a72f-2a54946958f5,tuscany.audio,available,100.2,100.2,high,low,7,cloudflare,,,27/09/2026 16:08
 7968ffc1-119b-4b2f-9c51-fc259f77cd68,buns.audio,available,104.99,114.99,medium,low,4,namesilo,,,09/08/2026 10:54
 c40abf5b-f8ef-4635-94a0-60b2eb98ba6e,squared.audio,available,104.99,114.99,high,low,7,namesilo,,,10/09/2026 17:27
 e8a5c9c2-cdf5-4775-8805-b2dc2e2d969c,gloriously.audio,available,104.99,114.99,high,low,10,namesilo,,,14/09/2026 21:45
@@ -768,6 +776,7 @@ c3c39c72-5617-4ab0-b4d7-bcb083d2deca,deprave.audio,available,104.99,114.99,mediu
 b8c061ac-37c3-4f4b-8755-8c49385ce777,poinciana.audio,available,108.98,159.98,high,low,9,namecheap,,,23/09/2026 20:09
 7b783610-e43a-4ade-943f-0315618362c8,deciding.audio,available,108.98,159.98,high,low,8,namecheap,,,13/08/2026 21:23
 95fd78aa-d2ed-4639-8d56-278e90f2c605,pernicious.audio,available,104.99,114.99,medium,low,10,namesilo,,,08/08/2026 12:01
+b4e021fb-7737-44ad-8034-95f837ee9ab2,optimized.audio,available,103.5,103.5,high,low,9,porkbun,,,27/09/2026 22:29
 ee78ed62-ff8c-4b7b-b114-c5ee9d73f97a,technicals.audio,available,108.98,159.98,medium,low,10,namecheap,,,18/09/2026 20:39
 10c56092-aaaf-4596-86c3-2d26f83756fa,liii.audio,available,104.99,114.99,medium,low,4,namesilo,,,
 598ba9d9-1082-4f43-a3e7-6f1d724e5e19,beginning.audio,available,104.99,114.99,high,low,9,namesilo,,,09/08/2026 09:06
@@ -781,6 +790,7 @@ bf9db2c8-8afa-469d-aa2b-18ae7755a24c,parody.audio,available,108.98,159.98,high,l
 6669c4f4-f7ca-4f47-afbd-e92a28552e43,uncut.audio,available,104.99,114.99,high,low,5,namesilo,,,12/09/2026 06:52
 16ca99dc-4aec-4d43-a704-b54847805feb,who.audio,available,,,high,high,3,,,,
 b7b79e7d-b050-419b-bd10-0b36c5467820,entering.audio,available,104.99,114.99,high,low,8,namesilo,,,22/08/2026 01:48
+c31d9f15-d4a5-4fb0-81ed-70a074672213,rockford.audio,available,104.99,114.99,high,low,8,namesilo,,,27/09/2026 15:41
 2121c1e3-1463-4467-b77e-5bf3d25b90e9,armageddon.audio,available,104.99,114.99,high,low,10,namesilo,,,20/09/2026 06:29
 f8d2b8c8-9c30-4151-b615-916efd021e48,comb.audio,available,104.99,114.99,high,low,4,namesilo,,,24/09/2026 16:22
 c34cd640-721e-4790-867b-c49a4609020f,cambrian.audio,available,104.99,114.99,high,low,8,namesilo,,,11/08/2026 15:45
@@ -799,8 +809,10 @@ d7950eac-1dd2-4185-85c3-e0ab0fb0066d,equestrian.audio,available,104.99,114.99,hi
 0d6c7bd6-52b7-4b4f-8bfb-d54610019528,homeward.audio,available,104.99,114.99,high,low,8,namesilo,,,21/08/2026 11:22
 a1ef455a-42fb-4041-96ae-b594770e7326,heuristic.audio,available,104.99,114.99,high,low,9,namesilo,,,21/08/2026 07:34
 b2560d8c-0c88-4be4-b129-bcafaf3d6538,juristic.audio,available,104.99,114.99,medium,low,8,namesilo,,,22/08/2026 14:37
+61080c58-b59a-4b1a-81e9-b78f44e2fd18,janice.audio,premium,832,832,high,low,6,namesilo,,,27/09/2026 19:53
 910f94bb-daea-4494-843c-a94aca569a37,cliquish.audio,available,104.99,114.99,medium,low,8,namesilo,,,12/08/2026 11:17
-07ff6cf5-9775-4bfe-862d-99475f5de829,custodial.audio,available,108.98,159.98,high,low,9,namecheap,,,13/08/2026 12:19
+07ff6cf5-9775-4bfe-862d-99475f5de829,custodial.audio,available,108.98,159.98,medium,low,9,namecheap,,,13/08/2026 12:19
+6496639f-3434-4c28-a9a3-b16437112633,fears.audio,available,104.99,114.99,medium,low,5,namesilo,,,27/09/2026 08:58
 0d568ab8-9304-4ec5-98af-a7e84d14a2c1,quiet.audio,available,108.98,159.98,high,low,5,namecheap,,,23/09/2026 12:30
 06d53dca-89d9-4837-903b-e3bd074242db,hokey.audio,available,104.99,114.99,medium,low,5,namesilo,,,09/08/2026 00:37
 32edeb4e-1820-44d4-bf45-07c08ee08d3c,octet.audio,available,108.98,159.98,high,low,5,namecheap,,,
@@ -811,7 +823,7 @@ fcb36895-4e5f-4d0b-b109-a7effec2828e,blissfully.audio,available,104.99,114.99,hi
 12a93749-269d-4d8f-a44c-9d60ef75b712,mmr.audio,available,104.99,114.99,high,low,3,namesilo,,,
 b13e2318-23f4-469a-8c32-1ffc48c6bc76,bosky.audio,available,108.98,159.98,medium,low,5,namecheap,,,10/08/2026 20:17
 854794a1-fe80-4650-bcb8-17ad53baa9b9,confusing.audio,available,108.98,159.98,high,low,9,namecheap,,,23/09/2026 20:14
-7fbef267-fd19-4a81-9fa5-3252b86331fb,magnetized.audio,available,104.99,114.99,high,low,10,namesilo,,,24/08/2026 13:04
+7fbef267-fd19-4a81-9fa5-3252b86331fb,magnetized.audio,available,104.99,114.99,medium,low,10,namesilo,,,24/08/2026 13:04
 1d96f4fa-9174-4e2a-a2b7-142da8f96ace,marie.audio,premium,832,832,high,low,5,namesilo,,,25/09/2026 17:44
 d0fdb1f5-c981-4db8-adc8-af38d10c5dc4,endocrine.audio,available,104.99,114.99,high,low,9,namesilo,,,17/08/2026 01:00
 47c360cb-9383-4dac-9947-e526d02395b5,swelled.audio,available,104.99,114.99,medium,low,7,namesilo,,,11/09/2026 05:38
@@ -838,18 +850,20 @@ b1d47c28-e6e1-416b-90a0-a8c1151f2a9c,filmed.audio,available,104.99,114.99,high,l
 8e55029a-394a-4033-a61c-6dd21f659e06,powerfully.audio,available,108.98,159.98,high,low,10,namecheap,,,15/09/2026 21:10
 a3ebbd51-e947-4445-bb7f-2971d0332376,busch.audio,available,104.99,114.99,medium,low,5,namesilo,,,27/09/2026 03:12
 8168e20e-7b05-4ebc-8ea7-ca1bd3ae3353,lips.audio,available,159.98,,high,low,4,namecheap,,,
+84a7c9b3-6d8e-4535-92e0-22e1aad3adb7,meetings.audio,available,104.99,114.99,medium,low,8,namesilo,,,27/09/2026 10:46
 2f01eca3-4d8b-4a5a-b8d5-3ad1c8cca9c4,allison.audio,available,108.98,159.98,medium,low,7,namecheap,,,25/09/2026 17:48
 2ad31934-e9f0-4b0c-9d1b-7ce20b7a9128,lawless.audio,available,104.99,114.99,medium,low,7,namesilo,,,
 1639cc86-d740-47aa-be98-578e09f31370,triple.audio,available,104.99,114.99,high,low,6,namesilo,,,
 84499a51-175a-4e5c-8571-f72e4e521ffb,conway.audio,premium,3427.6,3427.6,high,low,6,name.com,,,25/09/2026 21:36
 7f64b88f-e7af-457d-b91a-c24fec90c1fa,ordnance.audio,available,104.99,114.99,high,low,8,namesilo,,,20/09/2026 11:44
-0eb5df60-e575-43bc-ad54-dcbd3dd7109d,skepticism.audio,available,108.98,159.98,high,low,10,namecheap,,,24/09/2026 22:29
+0eb5df60-e575-43bc-ad54-dcbd3dd7109d,skepticism.audio,available,108.98,159.98,medium,low,10,namecheap,,,24/09/2026 22:29
 cd776843-7954-49cc-8067-5e673862baac,squinty.audio,available,104.99,114.99,medium,low,7,namesilo,,,07/08/2026 03:20
 bcf6c533-fc04-4a05-a93b-9b5e785b6c5d,adorably.audio,available,104.99,114.99,medium,low,8,namesilo,,,13/09/2026 17:21
 447ddfaf-2744-4c4d-b6f1-e0e72fd132f5,backhand.audio,available,104.99,114.99,high,low,8,namesilo,,,08/08/2026 05:43
 e0e6f534-28eb-4fc7-8dc8-15aab223c309,incensed.audio,available,104.99,114.99,medium,low,8,namesilo,,,22/08/2026 01:01
 bb08c3e7-f700-4107-9f25-e4571da046f8,transfixed.audio,available,104.99,114.99,medium,low,10,namesilo,,,17/08/2026 22:56
 cfc4fa8d-d272-42a4-9180-899036a8a47a,diazo.audio,available,104.99,114.99,medium,low,5,namesilo,,,14/08/2026 06:23
+f6698747-9220-4134-9073-85937f63a539,carpenter.audio,premium,2070.2,2070.2,high,low,9,spaceship,,,28/09/2026 01:36
 b8fc66ef-95f3-4202-b5fc-063f05228c50,mirror.audio,available,159.98,,high,low,6,namecheap,,,
 ce821d9e-52bb-493f-8132-7f90d12f7191,agincourt.audio,available,108.98,159.98,medium,low,9,namecheap,,,17/09/2026 17:59
 7ec15fe4-1612-4855-9f80-a78284ca8204,eyrie.audio,available,104.99,114.99,high,low,5,namesilo,,,
@@ -877,7 +891,7 @@ f949ebf3-ca6c-4d70-8e4d-d8eaf132c637,donatus.audio,available,108.98,159.98,mediu
 2c091794-4998-41ec-9ffb-d8bb630623c6,occurring.audio,available,104.99,114.99,high,low,9,namesilo,,,
 80b7a3e4-0424-4935-a6a5-fb95f9742192,addled.audio,available,104.99,114.99,medium,low,6,namesilo,,,
 36280f69-b184-49b2-823a-cc193c190c0a,snoek.audio,available,108.98,159.98,medium,low,5,namecheap,,,22/09/2026 07:53
-02f71afb-2f78-40ac-bf1c-27e17b711e77,sadat.audio,available,104.99,114.99,high,low,5,namesilo,,,19/09/2026 15:58
+02f71afb-2f78-40ac-bf1c-27e17b711e77,sadat.audio,available,104.99,114.99,medium,low,5,namesilo,,,19/09/2026 15:58
 10bfad10-19dd-40bc-a832-7e3586417f9f,sixth.audio,available,104.99,114.99,high,low,5,namesilo,,,
 7dc7905f-45c1-42b7-aaf1-b1c107a8deb4,stop.audio,available,104.99,114.99,high,low,4,namesilo,,,24/09/2026 23:23
 0325d36a-83f8-4701-acfc-e6cc9cfa76e1,acme.audio,available,104.99,114.99,high,medium,4,namesilo,,,24/08/2026 20:47
@@ -887,9 +901,10 @@ fd0e5550-62cb-4d39-8a68-43589c63a594,shortcuts.audio,available,104.99,114.99,med
 0d99b08d-ece2-4abb-a5e0-ce0f7a07f957,ionised.audio,available,104.99,114.99,medium,low,7,namesilo,,,22/08/2026 09:33
 d75fbbbc-da7d-4d1e-b8d8-5e37391d459e,mentions.audio,available,104.99,114.99,medium,low,8,namesilo,,,17/09/2026 17:25
 fe28478b-1164-4943-b758-d1b5ed0b131c,hanoi.audio,available,104.99,114.99,high,low,5,namesilo,,,
+729f599d-e0b7-4b3e-a764-2dd5a4e79d38,causes.audio,available,104.99,114.99,medium,low,6,namesilo,,,27/09/2026 09:34
 4c6bf743-a80a-44af-abe6-2cdca7c35972,bollard.audio,available,108.98,159.98,medium,low,7,namecheap,,,23/09/2026 22:48
 2b078d6e-bc24-4484-8a76-7da6a2e6f3a9,amusing.audio,available,108.98,159.98,high,low,7,namecheap,,,
-bf630fbe-176f-4e17-8746-8293f02283b7,alderfly.audio,available,104.99,114.99,high,low,8,namesilo,,,18/09/2026 04:32
+bf630fbe-176f-4e17-8746-8293f02283b7,alderfly.audio,available,104.99,114.99,medium,low,8,namesilo,,,18/09/2026 04:32
 f50d02b3-810e-4a4e-9d3c-3b9556e7a6a8,wink.audio,premium,2600,2600,high,low,4,namecheap,,,22/09/2026 22:05
 722221da-e713-4464-9c12-0208f1d5c2e2,asunder.audio,available,104.99,114.99,medium,low,7,namesilo,,,07/08/2026 10:20
 a0d0c476-8eda-4ecd-a6ba-d1210145b14c,bloodless.audio,available,104.99,114.99,medium,low,9,namesilo,,,07/08/2026 02:19
@@ -933,7 +948,7 @@ b5b57980-e57c-4544-b54f-345ea5561d7e,overlook.audio,available,159.98,,high,low,8
 ca5c7e0d-300a-4fda-8567-f83c41dc9226,beast.audio,available,104.99,114.99,high,low,5,namesilo,,,22/09/2026 04:42
 4e3700ba-bfca-407b-b4bf-76e5dce7b1b8,seemingly.audio,available,108.98,159.98,medium,low,9,namecheap,,,13/09/2026 20:24
 a276264a-a202-4b7b-afc1-7a9a36721e39,drove.audio,available,104.99,114.99,high,low,5,namesilo,,,25/09/2026 22:29
-d598c710-d871-462d-93a9-f369dd4dd2d4,nineteenth.audio,available,104.99,114.99,high,low,10,namesilo,,,
+d598c710-d871-462d-93a9-f369dd4dd2d4,nineteenth.audio,available,104.99,114.99,medium,low,10,namesilo,,,
 83f96633-1df4-4cbd-9e2c-6ac814d0ea6d,hertzian.audio,available,104.99,114.99,medium,low,8,namesilo,,,21/08/2026 07:14
 611ed333-eaa9-4c50-a257-462cf775a9b5,muntjac.audio,available,104.99,114.99,medium,low,7,namesilo,,,22/09/2026 06:28
 c90b1c40-74a3-4c5a-abe5-207d7fd5a2ef,malignant.audio,available,104.99,114.99,medium,low,9,namesilo,,,24/08/2026 14:08
@@ -945,16 +960,16 @@ a6b06e14-ee2c-42c8-9502-05e68bb561fc,wafers.audio,available,104.99,114.99,medium
 f7de8d1a-c843-4cd0-a2f6-fbb43580f070,ritardando.audio,available,104.99,114.99,high,medium,10,namesilo,,,09/09/2026 09:54
 553460b3-9bce-4a25-a5ab-a6146ddfcdc2,nbc.audio,premium,2600,2600,high,high,3,namecheap,,,25/09/2026 11:13
 34fc7907-4485-490d-a723-4ec7e7784108,highway.audio,available,104.99,114.99,high,low,7,namesilo,,,
-b971c328-6cfd-43a2-b0dd-79b9ed1d89cd,fearlessly.audio,available,104.99,114.99,high,low,10,namesilo,,,14/09/2026 10:44
+b971c328-6cfd-43a2-b0dd-79b9ed1d89cd,fearlessly.audio,available,104.99,114.99,medium,low,10,namesilo,,,14/09/2026 10:44
 1744ca5e-3d60-457b-9cf4-2c18e8da230a,conjunction.audio,available,104.99,114.99,high,low,11,namesilo,,,
 242415ee-fec7-4363-a38d-e2cee4031f3d,cytherea.audio,available,104.99,114.99,medium,low,8,namesilo,,,19/09/2026 17:16
 436390f0-9e09-40e0-970d-1094ccf0a204,coruscant.audio,available,104.99,114.99,medium,low,9,namesilo,,,
-cfb49b95-b251-4af8-ab34-4489f8ae38bb,measure.audio,available,104.99,114.99,high,low,7,namesilo,,,
+cfb49b95-b251-4af8-ab34-4489f8ae38bb,measure.audio,available,100.2,100.2,high,low,7,cloudflare,,,28/09/2026 00:35
 7c32ea74-bd71-4c4f-ae34-76392911144e,her.audio,available,104.99,114.99,high,low,3,namesilo,,,
 f301843e-e7dc-4b7c-bd3d-11a2ddd20a1d,bamako.audio,available,104.99,114.99,medium,low,6,namesilo,,,22/09/2026 00:34
 25b37852-4deb-434d-a887-be0e31eb709c,decrepit.audio,available,104.99,114.99,medium,low,8,namesilo,,,13/08/2026 05:40
 7de7babb-00dd-4f76-88f1-0a2879749c8d,renascent.audio,available,104.99,114.99,high,low,9,namesilo,,,09/09/2026 13:55
-db3442b0-c330-4435-bb5e-4a7bed5aa2d3,stemmed.audio,available,104.99,114.99,high,low,7,namesilo,,,11/08/2026 22:33
+db3442b0-c330-4435-bb5e-4a7bed5aa2d3,stemmed.audio,available,104.99,114.99,medium,low,7,namesilo,,,11/08/2026 22:33
 db9d3570-c1fa-423c-822c-fc151e660584,thrust.audio,available,104.99,114.99,high,low,6,namesilo,,,25/09/2026 00:11
 caa78a56-603f-4426-be5b-50fa3b7d8625,chilling.audio,available,104.99,114.99,medium,low,8,namesilo,,,12/08/2026 05:19
 6e95a728-b650-440b-a342-aa8644dcea73,acetone.audio,available,104.99,114.99,high,low,7,namesilo,,,17/09/2026 00:07
@@ -984,18 +999,3 @@ e53a64ec-aa37-4b73-98d2-04a9071a9ee1,metz.audio,available,104.99,114.99,high,low
 0e4b0dae-e7ea-49ba-b00a-f5e0195ebd7e,naive.audio,available,104.99,114.99,high,low,5,namesilo,,,03/09/2026 12:50
 2ec4b897-c80f-4085-9aee-cf5d3e7307cc,monacan.audio,available,104.99,114.99,medium,low,7,namesilo,,,25/08/2026 04:01
 b1cefa98-c0c6-4e62-b605-d6b46b023ba1,crepuscle.audio,available,104.99,114.99,medium,low,9,namesilo,,,11/09/2026 21:50
-b36990f6-841c-4e33-bacd-99782d6a760d,akka.audio,available,104.99,114.99,high,low,4,namesilo,,,16/09/2026 22:23
-127beb76-47f6-46c9-97d4-acfcd7ce8b43,trite.audio,available,104.99,114.99,medium,low,5,namesilo,,,08/08/2026 11:19
-c3e40974-c4bd-49a4-9cf3-8e7588d89807,amendment.audio,available,108.98,159.98,high,low,9,namecheap,,,18/09/2026 18:38
-498a5b11-57b5-48f1-94c1-8f71e212a70c,razorback.audio,available,104.99,114.99,high,low,9,namesilo,,,09/09/2026 10:48
-827958d2-e2ed-4d22-acf8-c01dd12ab5d0,dogfish.audio,available,108.98,159.98,high,low,7,namecheap,,,18/09/2026 21:24
-3682f3de-b89e-40d7-a276-4cd854339129,gad.audio,available,104.99,114.99,high,low,3,namesilo,,,19/09/2026 15:59
-47640cae-bbbd-46e6-9926-d4d0f021be88,ike.audio,available,104.99,114.99,high,low,3,namesilo,,,
-137cf38f-30fa-4edd-a23c-9340aad66817,cloven.audio,available,104.99,114.99,medium,low,6,namesilo,,,10/08/2026 06:51
-5bef205a-005e-465b-8c63-c5b874e6f94f,alizarin.audio,available,104.99,114.99,medium,low,8,namesilo,,,18/09/2026 08:12
-4b4d68ff-48a0-4a4e-8dfc-255a360c83ae,droopy.audio,available,108.98,159.98,medium,low,6,namecheap,,,14/08/2026 19:43
-1d1dc4f4-1017-4592-9394-10cc5d55e23e,afp.audio,available,108.98,159.98,high,low,3,namecheap,,,17/09/2026 15:12
-f4fa3daa-81a9-43d1-81fc-2e205f080129,loan.audio,available,108.98,159.98,high,low,4,namecheap,,,25/09/2026 09:02
-cc34ff5a-2ba0-4942-b885-11c4c65668ca,wounds.audio,available,108.98,159.98,low,low,6,namecheap,,,25/09/2026 19:23
-ca87e447-6f77-44a5-8f6a-a589bd3ece13,onomastic.audio,available,104.99,114.99,medium,low,9,namesilo,,,04/09/2026 15:15
-ddfeeacc-9363-46eb-9e5e-77cc0b733cd8,additional.audio,available,108.98,159.98,high,low,10,namecheap,,,21/09/2026 17:14
